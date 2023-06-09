@@ -6,7 +6,7 @@
 
 - страница сайта ПОСЛЕ
 
-<image src="1_2.png" alt="Текст с описанием картинки">
+![pic](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/1_2.PNG)
 
 ### Работа с экпериментом :
 

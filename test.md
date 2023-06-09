@@ -2,7 +2,7 @@
 
 - страница сайта ДО
 
-![pic]([https://github.com/Sinikka73/AB_testing/blob/main/price1.PNG](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/1_1.PNG))
+![pic](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/1_1.PNG)
 
 - страница сайта ПОСЛЕ
 

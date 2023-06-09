@@ -2,7 +2,7 @@
 
 - страница сайта ДО
 
-<image src="[1_1.png](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/1_1.PNG)" alt="Текст с описанием картинки">
+![pic](https://github.com/Sinikka73/AB_testing/blob/main/price1.PNG)
 
 - страница сайта ПОСЛЕ
 

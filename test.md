@@ -10,13 +10,13 @@
 
 ### Работа с экпериментом :
 
-- делим аудиторию эксеримента пополам (50% + 50%);
+- делим аудиторию эксперимента пополам (50% + 50%);
 - вносим три изменения: добавление "с удовольствием", увеличение кнопки и шрифта "Попробовать бесплатно";
 - определить цели: просмотры страниц и конверсия;
 - определение аудитории: пользователи из России и Белоруссии;
 - распределение трафика: 50% от всех посещений.
 
-<image src="test_1.png" alt="Текст с описанием картинки">
-<image src="test_2.png" alt="Текст с описанием картинки">
-<image src="test_3.png" alt="Текст с описанием картинки">
-<image src="test_4.png" alt="Текст с описанием картинки">
+![pic](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/teat_1.PNG)
+![pic](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/teat_2.PNG)
+![pic](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/teat_3.PNG)
+![pic](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/teat_4.PNG)

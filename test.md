@@ -17,6 +17,6 @@
 - распределение трафика: 50% от всех посещений.
 
 ![pic](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/test_1.PNG)
-![pic](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/teat_2.PNG)
+![pic](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/test_2.PNG)
 ![pic](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/teat_3.PNG)
 ![pic](https://github.com/Sinikka73/AB_test_Seminar_3/blob/main/teat_4.PNG)
